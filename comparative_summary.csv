@@ -1,0 +1,4 @@
+Configuration,Avg Latency (ms),Accuracy Level
+BM25,41,Medium
+Brute Force,127,High
+HNSW (ChromaDB),9,High
