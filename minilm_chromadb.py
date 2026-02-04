@@ -96,4 +96,4 @@ for i in range(0, len(chunks), BATCH):
 
     print("Batch", i//BATCH + 1, "done")
 
-print("🎉 MiniLM Indexed & Saved")
+print(" MiniLM Indexed & Saved")

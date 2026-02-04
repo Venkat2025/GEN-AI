@@ -114,4 +114,4 @@ for i in range(0, len(chunks), BATCH):
     print("Batch", i//BATCH + 1, "done")
 
 
-print("🎉 BGE Indexed & Saved Successfully")
+print(" BGE Indexed & Saved Successfully")
